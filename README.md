@@ -1,6 +1,7 @@
 # Torneio de Futebol (TypeScript) 🏆
 
 Simula um torneio de futebol com registro de times, partidas, classificação final e tratamento de erros com logs.
+Atividade da matéria de Clean Code, do 7 período de Engenharia de Software na UniSATC.
 
 ## Tecnologias
 
