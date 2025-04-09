@@ -1,0 +1,28 @@
+{
+  "name": "gerenc-torneios-unisatc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrguidi/gerenc-torneios-unisatc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasrguidi/gerenc-torneios-unisatc/issues"
+  },
+  "homepage": "https://github.com/lucasrguidi/gerenc-torneios-unisatc#readme",
+  "description": "",
+  "dependencies": {
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "^5.8.3"
+  }
+}
